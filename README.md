@@ -57,11 +57,11 @@ Flight-Fare-Prediction/
 │
 ├── models/
 │   └── rd_random.pkl
-│
+
 ├── src/
 │   ├── config.py
 │   ├── preprocess.py
-│
+
 ├── app.py
 ├── requirements.txt
 ├── Flight Fare Prediction.ipynb
