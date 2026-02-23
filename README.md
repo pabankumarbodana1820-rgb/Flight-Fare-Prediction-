@@ -69,18 +69,6 @@ Flight-Fare-Prediction/
 
 ---
 
-## 📸 Application Screenshots
-
-<p align="center">
-  <img src="images/ui.png" width="700">
-</p>
-
-<p align="center">
-  <img src="images/prediction.png" width="700">
-</p>
-
----
-
 ## 📊 Input Features Used
 
 Airline
