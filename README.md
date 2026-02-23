@@ -52,6 +52,7 @@ Random Forest Regressor
 ---
 
 ## 📂 Project Structure
+
 Flight-Fare-Prediction/
 │
 ├── models/
@@ -65,6 +66,18 @@ Flight-Fare-Prediction/
 ├── requirements.txt
 ├── Flight Fare Prediction.ipynb
 └── README.md
+
+---
+
+## 📸 Application Screenshots
+
+<p align="center">
+  <img src="images/ui.png" width="700">
+</p>
+
+<p align="center">
+  <img src="images/prediction.png" width="700">
+</p>
 
 ---
 
