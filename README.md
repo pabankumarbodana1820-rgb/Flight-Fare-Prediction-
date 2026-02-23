@@ -51,22 +51,6 @@ Random Forest Regressor
 
 ---
 
-## 📸 Application Screenshots
-
-<p align="center">
-  <img src="C:\Users\paban\OneDrive\画像\Screenshots 1\1.flight fare prediction screenshoot.png" width="700">
-</p>
-
-<p align="center">
-  <img src="C:\Users\paban\OneDrive\画像\Screenshots 1\2.flight fare prediction screenshoot.png" width="700">
-</p>
-
-<p align="center">
-  <img src="C:\Users\paban\OneDrive\画像\Screenshots 1\3.flight fare prediction screenshoot.png" width="700">
-</p>
-
----
-
 ## 📂 Project Structure
 
 Flight-Fare-Prediction/
